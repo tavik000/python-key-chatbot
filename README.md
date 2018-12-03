@@ -32,6 +32,13 @@
 <br>
 <br>
 The trained model file is oversized. If you want to try this program, you have to download my trained model file from ... nowhere, contact me please.
+<br>
+<br>
+Our chatbot can reply in real time and it supports multi-lingual conversation (both Chinese and English). This allow users from both Chinese and English countries to communicate with our chatbot. 
+Our system returns a response using generation-based and rule-based ensemble approaches. Our system is ensembled by two sequence-to-sequence models, one trained by Chinese corpus and another one trained by English corpus. We then combined the two neural network models together with the Chatterbot model. The system will check the user input first, if it matches one of the rules we defined, the predefined response will be shown, otherwise, the user input will be passed into one of the generation-based models we trained.
+Our chatbot can chat freely with users as well as complete tasks like booking a cinema ticket. When the input message is detected to have the keywords “booking” and “cinema”, it will trigger to make the booking cinema ticket services. After then, our chatbot will generate the booking reference number, and ask the related booking ticket contents including name, booking film, booking date and seat no. Finally, the booking information will be saved and generate the fully booking messages which is confirmed or cancelled.
+The chatbot also includes functions like replying by using emojis and telling jokes as well as perform simple calculations.
+
 
 
 ## Hybrid Approach​
