@@ -28,7 +28,7 @@
 
 ## Introduction
 
-<b> Important Notice: This project mix some different other project. You may find that the code is extremely <span style="color:red"><em>messy</em></span>. Do not expect learning something from here. Thank You!
+**Important Notice**: This project mix some different other project. You may find that the code is extremely **messy**. Do not expect learning something from here. Thank You!
 <br>
 <br>
 The trained model file is oversized. If you want to try this program, you have to download my trained model file from ... nowhere, contact me please.
@@ -198,11 +198,11 @@ $ git clone git@github.com:tavik000/python-key-chatbot.git
 
 ### 2. Download the trained model 
 
-`basic.data-00000-of-00001` and `chatbot.pkl` from me (Contact me) <tavik002@gmail.com>. 
+Download `basic.data-00000-of-00001` and `chatbot.pkl` from me (Contact me) <tavik002@gmail.com>. 
 
 ### 3. Put the file in the right location
 
-locate model file `basic.data-00000-of-00001` in "./Hybrid/chatbot/Data/Result/" 
+locate model file `basic.data-00000-of-00001` to "./Hybrid/chatbot/Data/Result/" 
 <br>
 locate `chatbot.pkl` to "./Hybrid/chatbot/"
 
