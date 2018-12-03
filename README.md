@@ -51,14 +51,14 @@ The trained model file is oversized. If you want to try this program, you have t
 
 ## System Structure
 System Flow Chart <br>
-![image](./ScreenShot/Picture1.png)
+![image](./ScreenShot/Picture1.png) <br>
 Chatbot Tech Stack <br>
-![image](./ScreenShot/Picture2.png)
+![image](./ScreenShot/Picture2.png) <br>
 Dataflow between User and Chatbot <br>
-![image](./ScreenShot/Picture3.png)
+![image](./ScreenShot/Picture3.png) <br>
 Chatterbot and S2S switching (Now is random) <br>
-![image](./ScreenShot/Picture4.png)
-![image](./ScreenShot/Picture5.png)
+![image](./ScreenShot/Picture4.png) <br>
+![image](./ScreenShot/Picture5.png) <br>
 
 
 
