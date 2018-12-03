@@ -74,9 +74,8 @@ Chatterbot and S2S switching (Now is random)
 
 
 ## Author
-- <img src="https://github.com/favicon.ico" width="24">[Key](https://github.com/tavik000)
-<br>
-- <img src="https://github.com/favicon.ico" width="24">[Billy](https://github.com/billyhiuwali) <br>
+- <img src="https://github.com/favicon.ico" width="24">[Key](https://github.com/tavik000) <br>
+- <img src="https://github.com/favicon.ico" width="24">Billy <br>
 - Kenneth <br>
 - Baron <br>
 
@@ -184,13 +183,14 @@ Feature:
 
 ## Installation
 
-1. ```$ git clone git@github.com:tavik000/python-key-chatbot.git ```
+1. 
+```bash $ git clone git@github.com:tavik000/python-key-chatbot.git ```
 2. Download the trained model `basic.data-00000-of-00001` and `chatbot.pkl` from me (Contact me) <tavik002@gmail.com>. 
 3. locate model file `basic.data-00000-of-00001` in "./Hybrid/chatbot/Data/Result/" locate `chatbot.pkl` to "./Hybrid/chatbot/"
 4. Check this link to build up a Facebook Messenger Chatbot. You don't need to build up the server, it already in this program - [How to Host a Python and Flask Facebook Messenger Bot on Heroku](https://www.twilio.com/blog/2018/02/facebook-messenger-bot-heroku-python-flask.html)
 5. Go to "./Hybrid/chatbot/", modify `test_hybrid.py` file, change ACCESS_TOKEN to your Facebook Page token generated in Facebook App (Follow the instruction No.4 then you will know what I mean) and set your own VERIFY_TOKEN whatever you like
 6. Go to project root folder `python-key-chatbot` and set up your own server config
-7.  ```$ python3 app.py``` to run the python server
+7.  ```bash $ python3 app.py``` to run the python server
 8. Go to Facebook for developer website and set up your Webhook, put your server url and ACCESS_TOKEN in the textholder. 
 9. You are ready to go, test your chatbot by sending it message in Facebook Messenger.
 
