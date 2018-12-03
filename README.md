@@ -13,8 +13,8 @@
 ## Contents 
 <!-- toc -->
 * [Introduction](#introduction)
-* [Hybrid Approach​](#hybrid)
-* [System Structure](#system)
+* [Hybrid Approach​](#hybrid-approach)
+* [System Structure](#system-structure)
 * [Environment](#environment)
 * [Author](#author)
 * [Function](#function)
@@ -183,6 +183,7 @@ Feature:
 
 ## Installation
 
+
 ### 1. Clone Repo
 
 ```bash
@@ -215,7 +216,8 @@ Go to project root folder `python-key-chatbot` and set up your own server config
 
 ```bash 
 $ python3 app.py
-``` to run the python server
+``` 
+To run the python server
   
 ### 8. Set up Facebook Webhook
 
