@@ -50,13 +50,13 @@ The trained model file is oversized. If you want to try this program, you have t
 
 
 ## System Structure
-System Flow Chart
+System Flow Chart <br>
 ![image](./ScreenShot/Picture1.png)
-Chatbot Tech Stack
+Chatbot Tech Stack <br>
 ![image](./ScreenShot/Picture2.png)
-Dataflow between User and Chatbot 
+Dataflow between User and Chatbot <br>
 ![image](./ScreenShot/Picture3.png)
-Chatterbot and S2S switching (Now is random)
+Chatterbot and S2S switching (Now is random) <br>
 ![image](./ScreenShot/Picture4.png)
 ![image](./ScreenShot/Picture5.png)
 
@@ -204,7 +204,7 @@ locate `chatbot.pkl` to "./Hybrid/chatbot/"
 
 Check this link to build up a Facebook Messenger Chatbot. You don't need to build up the server, it already in this program - [How to Host a Python and Flask Facebook Messenger Bot on Heroku](https://www.twilio.com/blog/2018/02/facebook-messenger-bot-heroku-python-flask.html)
 
-###5. Modify program
+### 5. Modify program
 
 Go to "./Hybrid/chatbot/", modify `test_hybrid.py` file, change ACCESS_TOKEN to your Facebook Page token generated in Facebook App (Follow the instruction No.4 then you will know what I mean) and set your own VERIFY_TOKEN whatever you like
 
