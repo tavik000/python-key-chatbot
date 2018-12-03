@@ -120,20 +120,24 @@ Feature:
 - Time checking <br>
 <img src="./ScreenShot/time.png" alt="screenshot" width="200"/>
 
+------
+
 - Replying by emoji <br>
 <img src="./ScreenShot/emoji1.png" alt="screenshot" width="200"/>
 <img src="./ScreenShot/emoji2.png" alt="screenshot" width="200"/>
 <img src="./ScreenShot/emoji3.png" alt="screenshot" width="200"/>
 
+------
 
 - Telling jokes <br>
 <img src="./ScreenShot/joke.png" alt="screenshot" width="200"/>
 
+------
 
 - Simple calculations <br>
 <img src="./ScreenShot/calculation.png" alt="screenshot" width="200"/>
 
-
+------
 
 - Chinese chit-chat <br>
 <img src="./ScreenShot/cn1.png" alt="screenshot" width="200"/>
@@ -146,26 +150,28 @@ Feature:
 <img src="./ScreenShot/cn8.png" alt="screenshot" width="200"/>
 <img src="./ScreenShot/cn9.png" alt="screenshot" width="200"/>
 
-
+------
 
 - Questions to check and confirm user intent and Framed based Template <br>
 <img src="./ScreenShot/book1.png" alt="screenshot" width="200"/>
 <img src="./ScreenShot/book2.png" alt="screenshot" width="200"/>
 <img src="./ScreenShot/book3.png" alt="screenshot" width="200"/>
 
-
-
+------
 
 - English Chitchat Template using Facebook API <br>
 <img src="./ScreenShot/fb1.png" alt="screenshot" width="200"/>
 <img src="./ScreenShot/fb2.png" alt="screenshot" width="200"/>
 <img src="./ScreenShot/fb3.png" alt="screenshot" width="200"/>
 
+------
 
 - Repetitive Detection <br>
 <img src="./ScreenShot/rd1.png" alt="screenshot" width="200"/>
 <img src="./ScreenShot/rd2.png" alt="screenshot" width="200"/>
 <img src="./ScreenShot/rd3.png" alt="screenshot" width="200"/>
+
+------
 
 - English chit-chat <br>
 <img src="./ScreenShot/eng1.png" alt="screenshot" width="200"/>
