@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="454351a8-c753-4d15-a303-974e0ddf3130" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hybrid/chatbot/ChatBot_new_v5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hybrid/chatbot/ChatBot_new_v5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hybrid/chatbot/cinema_book.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Hybrid/chatbot/cinema_book.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hybrid/chatbot/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Hybrid/chatbot/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hybrid/chatbot/test_hybrid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hybrid/chatbot/test_hybrid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Hybrid/chatbot/test_hybrid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="197" column="12" selection-start-line="197" selection-end-line="197" selection-end-column="12" />
+            <state relative-caret-position="636">
+              <caret line="225" column="53" lean-forward="true" selection-start-line="225" selection-start-column="53" selection-end-line="225" selection-end-column="53" />
               <folding>
                 <element signature="e#42#52#0" expanded="true" />
               </folding>
@@ -225,8 +220,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hybrid/chatbot/test_hybrid.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="197" column="12" selection-start-line="197" selection-end-line="197" selection-end-column="12" />
+        <state relative-caret-position="636">
+          <caret line="225" column="53" lean-forward="true" selection-start-line="225" selection-start-column="53" selection-end-line="225" selection-end-column="53" />
           <folding>
             <element signature="e#42#52#0" expanded="true" />
           </folding>

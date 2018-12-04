@@ -34,9 +34,12 @@
 The trained model file is oversized. If you want to try this program, you have to download my trained model file from ... nowhere, contact me please.
 <br>
 <br>
-Our chatbot can reply in real time and it supports multi-lingual conversation (both Chinese and English). This allow users from both Chinese and English countries to communicate with our chatbot. 
-Our system returns a response using generation-based and rule-based ensemble approaches. Our system is ensembled by two sequence-to-sequence models, one trained by Chinese corpus and another one trained by English corpus. We then combined the two neural network models together with the Chatterbot model. The system will check the user input first, if it matches one of the rules we defined, the predefined response will be shown, otherwise, the user input will be passed into one of the generation-based models we trained.
-Our chatbot can chat freely with users as well as complete tasks like booking a cinema ticket. When the input message is detected to have the keywords “booking” and “cinema”, it will trigger to make the booking cinema ticket services. After then, our chatbot will generate the booking reference number, and ask the related booking ticket contents including name, booking film, booking date and seat no. Finally, the booking information will be saved and generate the fully booking messages which is confirmed or cancelled.
+Our chatbot can reply in real time and it supports multi-lingual conversation (both Chinese and English).
+<br><br>  
+Our system returns a response using generation-based and rule-based ensemble approaches. Our system is ensembled by two sequence-to-sequence models, one trained by Chinese corpus and another one trained by English corpus. We combined the two sequence-to-sequence models together with the Chatterbot model. The system will check the user input first, if it matches one of the rules we defined, the predefined response will be shown, this is task-specificed framed based system. Otherwise, the user input will be passed into one of the generation-based models we trained or the chatterbot for getting response from one of two system.
+<br><br>
+Our chatbot can chat freely with users as well as complete tasks like booking a cinema ticket. When the input message is detected to have the keywords “book” and “movie” or "ticket", it will trigger to make the booking cinema ticket services. After then, our chatbot will generate the booking reference number, and ask the related booking ticket contents including name, booking film, booking date and seat No. Finally, the booking information will be saved in to a text file called `cinema_book.txt` and generate a confirmation message to user and ask for confirm.
+<br><br>
 The chatbot also includes functions like replying by using emojis and telling jokes as well as perform simple calculations.
 
 
@@ -215,15 +218,15 @@ locate `chatbot.pkl` to "./Hybrid/chatbot/"
 
 ### 4. Build a Facebook App
 
-Check this link to build up a Facebook Messenger Chatbot. You don't need to build up the server, it already in this program - [How to Host a Python and Flask Facebook Messenger Bot on Heroku](https://www.twilio.com/blog/2018/02/facebook-messenger-bot-heroku-python-flask.html)
+Check this link to build up a Facebook Messenger Chatbot. You don't need to build up the server, it's already in this program - [How to Host a Python and Flask Facebook Messenger Bot on Heroku](https://www.twilio.com/blog/2018/02/facebook-messenger-bot-heroku-python-flask.html)
 
 ### 5. Modify program
 
-Go to "./Hybrid/chatbot/", modify `test_hybrid.py` file, change ACCESS_TOKEN to your Facebook Page token generated in Facebook App (Follow the instruction No.4 then you will know what I mean) and set your own VERIFY_TOKEN whatever you like
+Go to "./Hybrid/chatbot/", modify `test_hybrid.py` file, change ACCESS_TOKEN (line 197) to your Facebook Page token generated in Facebook App (Follow the instruction No.4 then you will know what I mean) and set your own VERIFY_TOKEN (line 198) whatever you like
 
 ### 6. Set up python server config
 
-Go to project root folder `python-key-chatbot` and set up your own server config
+Go to project root folder `python-key-chatbot` and set up your own server config base on your situation
 
 ### 7. Run the program and start the server
 
@@ -234,7 +237,8 @@ To run the python server
   
 ### 8. Set up Facebook Webhook
 
-Go to Facebook for developer website and set up your Webhook, put your server url and ACCESS_TOKEN in the textholder. 
+Go to Facebook for developer website and set up your Webhook, put your server url (you can use a real server or using tools such as [ngrok](https://ngrok.com) or [localtunnel](https://github.com/localtunnel/localtunnel) for boardcast your localhost to Internet and get an url) and VERIFY_TOKEN in the textholder.  <br>
+![image](./ScreenShot/fbs.jpg) <br>
 
 ### 9. Happy Chatbot 
 
