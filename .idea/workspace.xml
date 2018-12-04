@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="454351a8-c753-4d15-a303-974e0ddf3130" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hybrid/chatbot/cinema_book.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Hybrid/chatbot/cinema_book.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hybrid/chatbot/test_hybrid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hybrid/chatbot/test_hybrid.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +15,7 @@
     <session id="289844229">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -30,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="642" />
+          <entry key="py" value="661" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="642" />
+          <entry key="Python" value="661" />
         </counts>
       </usages-collector>
     </session>
@@ -45,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hybrid/chatbot/ChatBot_new_v5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1504">
-              <caret line="283" column="41" selection-start-line="283" selection-start-column="41" selection-end-line="283" selection-end-column="41" />
+            <state relative-caret-position="633">
+              <caret line="299" column="40" selection-start-line="299" selection-start-column="30" selection-end-line="299" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -54,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Hybrid/chatbot/test_hybrid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
-              <caret line="225" column="53" lean-forward="true" selection-start-line="225" selection-start-column="53" selection-end-line="225" selection-end-column="53" />
+            <state relative-caret-position="196">
+              <caret line="312" column="63" lean-forward="true" selection-start-line="312" selection-start-column="63" selection-end-line="312" selection-end-column="63" />
               <folding>
                 <element signature="e#42#52#0" expanded="true" />
               </folding>
@@ -81,8 +83,9 @@
     <findStrings>
       <find>test</find>
       <find>just</find>
-      <find>join</find>
       <find>confidence</find>
+      <find>join</find>
+      <find>correct</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -169,7 +172,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="33" width="1400" height="911" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
@@ -213,15 +215,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hybrid/chatbot/ChatBot_new_v5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1504">
-          <caret line="283" column="41" selection-start-line="283" selection-start-column="41" selection-end-line="283" selection-end-column="41" />
+        <state relative-caret-position="633">
+          <caret line="299" column="40" selection-start-line="299" selection-start-column="30" selection-end-line="299" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hybrid/chatbot/test_hybrid.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="225" column="53" lean-forward="true" selection-start-line="225" selection-start-column="53" selection-end-line="225" selection-end-column="53" />
+        <state relative-caret-position="196">
+          <caret line="312" column="63" lean-forward="true" selection-start-line="312" selection-start-column="63" selection-end-line="312" selection-end-column="63" />
           <folding>
             <element signature="e#42#52#0" expanded="true" />
           </folding>

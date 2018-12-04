@@ -311,7 +311,7 @@ def receive_message():
                                 response_sent_text = cb.booking_4(chatter_input)
                             elif (booking_step == 5):
                                 booking_step = booking_step + 1
-                                response_sent_text = str(cb.booking_5(chatter_input)) + '\r\n Do you confirm the above booking is correct?'
+                                response_sent_text = str(cb.booking_5(chatter_input)) + '\r\n Is that correct?'
                             elif (booking_step == 6):
                                 booking_step = 0
                                 response_sent_text = cb.booking_6(chatter_input)
@@ -321,7 +321,7 @@ def receive_message():
                                 "I feel good ;)",
                                 "Great today ^_^",
                                 "Not so much -_-",
-                                "I don't have any emotion maybe o.O",
+                                "I don't have any emotion maybe - -",
                                 "I feel roboty :|]"]
                                 response_sent_text = str(random.choice(feelings))
                             else:

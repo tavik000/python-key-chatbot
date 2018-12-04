@@ -1,1 +1,1 @@
-Your Booking number: 44359, Your name: Zhao Key, Movie Name: Key movie, Day of the week: Saturday, Seat: 23A. Canceled
+Your Booking number: 77812, Your name: Zhao Key, Movie Name: Harry Potter, Day of the week: Friday, Seat: 23A. Canceled
