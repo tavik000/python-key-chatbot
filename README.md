@@ -218,7 +218,8 @@ locate `chatbot.pkl` to "./Hybrid/chatbot/"
 
 ### 4. Build a Facebook App
 
-Check this link to build up a Facebook Messenger Chatbot. You don't need to build up the server, it's already in this program - [How to Host a Python and Flask Facebook Messenger Bot on Heroku](https://www.twilio.com/blog/2018/02/facebook-messenger-bot-heroku-python-flask.html)
+Check this link to build up a Facebook Messenger Chatbot. You don't need to build up the server, it's already in this program <br>
+[How to Host a Python and Flask Facebook Messenger Bot on Heroku](https://www.twilio.com/blog/2018/02/facebook-messenger-bot-heroku-python-flask.html) - in this case, heroku are not applied.
 
 ### 5. Modify program
 
