@@ -86,7 +86,7 @@ Chatterbot and S2S switching (Now is random) <br>
 ## Author
 - <img src="https://github.com/favicon.ico" width="24">[Key](https://github.com/tavik000) <br>
 - [Billy](https://www.linkedin.com/in/billy-hawaii-891297170/) <br>
-- Kenneth <br>
+- [Kenneth] (ckinyi0627@yahoo.com.hk) <br>
 - [Baron](https://www.linkedin.com/in/baron-fung-098689142/) <br>
 
 ## Function
