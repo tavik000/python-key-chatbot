@@ -85,7 +85,7 @@ Chatterbot and S2S switching (Now is random) <br>
 
 ## Author
 - <img src="https://github.com/favicon.ico" width="24">[Key](https://github.com/tavik000) <br>
-- <img src="https://github.com/favicon.ico" width="24">Billy(https://github.com/billyhiuwali/) <br>
+- <img src="https://github.com/favicon.ico" width="24">[Billy](https://github.com/billyhiuwali/) <br>
 - Kenneth <br>
 - Baron <br>
 
