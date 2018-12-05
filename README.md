@@ -85,9 +85,9 @@ Chatterbot and S2S switching (Now is random) <br>
 
 ## Author
 - <img src="https://github.com/favicon.ico" width="24">[Key](https://github.com/tavik000) <br>
-- <img src="https://github.com/favicon.ico" width="24">Billy <br>
+- [Billy](https://www.linkedin.com/in/billy-hawaii-891297170/) <br>
 - Kenneth <br>
-- Baron <br>
+- [Baron](https://www.linkedin.com/in/baron-fung-098689142/) <br>
 
 ## Function
 - Generation based (Sequence to Sequence)​
