@@ -88,7 +88,7 @@ python-dateutil==2.6.1
 python-engineio==2.3.2
 python-socketio==2.0.0
 python-twitter==3.5
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 qtconsole==4.4.3
 requests==2.20.1
