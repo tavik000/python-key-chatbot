@@ -79,7 +79,7 @@ protobuf==3.6.1
 ptyprocess==0.6.0
 py==1.7.0
 pygame==1.9.4
-Pygments==2.2.0
+Pygments==2.7.4
 pymessenger==0.0.7.0
 pymongo==3.7.2
 pyparsing==2.3.0
