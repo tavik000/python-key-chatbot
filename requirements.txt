@@ -57,7 +57,7 @@ Markdown==3.0.1
 MarkupSafe==1.1.0
 mathparse==0.1.2
 matplotlib==3.0.2
-mistune==0.8.4
+mistune==2.0.3
 mlagents==0.5.0
 more-itertools==4.3.0
 multidict==4.4.2
